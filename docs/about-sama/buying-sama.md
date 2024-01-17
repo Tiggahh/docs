@@ -10,5 +10,4 @@ Currently, there are two options for purchasing SAMA tokens. More options will b
 
 2. [Uniswap V3, a decentralized exchange](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xe04f47ff45576249bc5083dfdf987e03d0550113)
 
-3. [Khaos exchange](https://khaos.exchange). Note: as we are moving away from Exosama Network and Multichain bridge
-   ceased operation, liquidity is scarce here so we are not recommending to use this any more.
+3. [Beam Swap, a decentralized exchange](https://swap.onbeam.com/#/swap?inputCurrency=0xd51bfa777609213a653a2cd067c9a0132a2d316a&outputCurrency=0x0650c20D8B536dA43818578071d43CDdd8fFE854)
