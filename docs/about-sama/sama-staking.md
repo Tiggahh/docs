@@ -2,12 +2,6 @@
 sidebar_position: 3
 ---
 
-# SAMA Staking 🥩
+Moonsama offers various staking campaigns within its ecosystem. Community members can participate in these campaigns, each with its own set of rewards, requirements and rules. These staking campaigns are hosted by Moonsama or trusted third-party developers within Moonsama's ecosystem.
 
-🚧 This section in currently under construction 🚧 
-
-Working hard to deliver! 🏗️👷‍♂️
-
-[However, check out the staking proposal by our CTO.](https://moonsama.notion.site/moonsama/Kyilkhor-s-staking-proposal-26307b7d957948c783cb7c083962122b)
-
-Stay tuned for updates of the 2nd iteration of this proposal.
+You can find all the ongoing staking campaigns [here](https://portal.moonsama.com/staking-campaigns)
